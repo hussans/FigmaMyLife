@@ -9,8 +9,6 @@ body {
     vertical-align: middle;
     border-radius: .6rem;
     margin-top: 1.5rem;
-    padding-top: .5rem;
-    padding-bottom: .5rem;
     color: white;
 }
 
@@ -75,13 +73,11 @@ body {
     display: inline-block;
     position: relative;
     bottom: 41rem;
-    left: 3rem;
+    left: 3.7rem;
 }
 
 ul {
     list-style: none;
-    margin: 1rem;
-    padding: 1rem;
     overflow: hidden;
 }
 
@@ -91,47 +87,22 @@ li {
     padding-left: 2rem;
 }
 
-
-
-.col-4 {
+.nav-text {
     display: flex;
     position: relative;
-    left: 36rem;
-}
-
-.col-1 {
-    margin-left: 1rem;
-    margin-top: .10rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font: Helvetica;
-    font-weight: 430;
-    font-size: 1.3rem;
-    width: max-content;
-    height: max-content;
-    text-align: start;
-    
-}
-
-.col-2 {
-    margin-left: 1rem;
-    margin-top: .10rem;
+    top: 1rem;
     font-family: Arial, Helvetica, sans-serif;
     font: Helvetica;
     font-weight: 430;
     font-size: 1.3rem;
     text-align: start;
+    right: 3rem;
 }
 
-.col-3 {
-    margin-left: -6rem;
-    margin-top: .10rem;
-    font-family: Arial, Helvetica, sans-serif;
-    font: Helvetica;
-    font-weight: 430;
-    font-size: 1.3rem;
-    text-align: start;
+.button-format {
+    margin-top: 1rem;
+    padding-left: 44rem;
 }
-
 
 .btn-style {
     display: flex;
@@ -166,4 +137,9 @@ li {
     position: relative;
     left: 60rem;
     top: 5rem;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
