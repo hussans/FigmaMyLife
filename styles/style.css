@@ -1,5 +1,5 @@
-
-body {
+/* Index Page CSS */
+#index-page {
     background-color: #FFEDD8;
 }
 
@@ -101,7 +101,7 @@ li {
 
 .button-format {
     margin-top: 1rem;
-    padding-left: 44rem;
+    padding-left: 39rem;
 }
 
 .btn-style {
@@ -142,4 +142,149 @@ li {
 a {
     text-decoration: none;
     color: white;
+}
+
+/* About Me Page CSS */
+
+#aboutme-page {
+    background-color: #5F5F5F;
+}
+
+.aboutme-header {
+    display: flex;
+    position: relative;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font: helvetica;
+    font-size: 5rem;
+    font-weight: 600;
+    left: 6rem;
+    top: 2rem;
+
+}
+
+.button-format-aboutme {
+    margin-top: 1rem;
+    padding-left: 39rem;
+}
+
+
+.aboutme-desc {
+    display: flex;
+    position: relative;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font: helvetica;
+    font-size: 1.7rem;
+    
+}
+
+#circle-body-aboutme {
+    width: 42rem;
+    height: 42rem;
+    border-radius: 50%;
+    background: linear-gradient(240deg, rgb(113,89,248, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-aboutme {
+    display: flex;
+    position: relative;
+    right: 5rem;
+    bottom: -3rem;
+    
+}
+
+#circle-body-aboutme2 {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    background: linear-gradient(60deg, rgb(113,89,248, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-aboutme2 {
+    display: flex;
+    position: relative;
+    left: 83rem;
+    bottom: 47rem;
+    
+}
+
+.text-container {
+    display: flex;
+    position: relative;
+    width: 56rem;
+    left: 6rem;
+    bottom: 49rem;
+}
+
+.lodi-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 48rem;
+    left: 6rem;
+    width: 62rem;
+    height: 15rem;
+    border-radius: 1rem;
+
+}
+
+
+.lodi-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 4.2/1;
+    object-fit: cover;
+
+}
+
+.gate-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 63rem;
+    left: 68.5rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.gate-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.city-text {
+    display: flex;
+    position: relative;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font: helvetica;
+    font-size: 1.7rem;
+
+    bottom: 83rem;
+    left: 67rem;
+}
+
+.arrow-image1 {
+    display: flex;
+    position: relative;
+    max-width: 5%;
+    max-height: 2%;
+
+    bottom: 84.5rem;
+    left: 73.5rem;
+    rotate: 40deg;
+}
+
+.arrow-image2 {
+    display: flex;
+    position: relative;
+    max-width: 5%;
+
+    bottom: 87rem;
+    left: 62.3rem;
+    rotate: 150deg;
 }
