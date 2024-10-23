@@ -6,5 +6,5 @@ Description: Multipage website that is modeled after a figma template that we ma
 Peer: Chainarung Nathan Dechyothin
 Review: The layout looks clean and well-structured, making it very easy to read and navigate. It's user-friendly, and the code is well-written with files neatly organized. Great job overall!
 
-Repo: 
+Repo: https://github.com/hussans/FigmaMyLife
 Figma: https://www.figma.com/design/yAsIeWjhjucXEdf2LciqOm/FigmaMyLife---Hassan-Sajid?m=auto&t=Cn4PXQVCgkGR2T3P-1
