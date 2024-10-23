@@ -159,7 +159,7 @@ a {
     font-size: 5rem;
     font-weight: 600;
     left: 6rem;
-    top: 2rem;
+    top: 3.5rem;
 
 }
 
@@ -287,4 +287,233 @@ a {
     bottom: 87rem;
     left: 62.3rem;
     rotate: 150deg;
+}
+
+/* Interests Page CSS */
+
+#interests-page {
+    background-color: #5F5F5F;
+}
+
+.interests-header {
+    display: flex;
+    position: relative;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font: helvetica;
+    font-size: 5rem;
+    font-weight: 600;
+    left: 6rem;
+    top: 3.5rem;
+}
+
+#circle-body-interests {
+    width: 17rem;
+    height: 17rem;
+    border-radius: 50%;
+    background: linear-gradient(200deg, rgb(129,219,155, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-interests {
+    display: flex;
+    position: relative;
+    right: 4rem;
+    top: 9rem;
+}
+
+#circle-body-interests2 {
+    width: 17rem;
+    height: 17rem;
+    border-radius: 50%;
+    background: linear-gradient(180deg, rgb(129,219,155, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-interests2 {
+    display: flex;
+    position: relative;
+    left: 69rem;
+    bottom: -1rem;
+}
+
+#circle-body-interests3 {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    background: linear-gradient(220deg, rgb(129,219,155, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-interests3 {
+    display: flex;
+    position: relative;
+    left: 18rem;
+    bottom: 13rem;
+}
+
+#circle-body-interests4 {
+    width: 6rem;
+    height: 6rem;
+    border-radius: 50%;
+    background: linear-gradient(220deg, rgb(129,219,155, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-interests4 {
+    display: flex;
+    position: relative;
+    left: 53rem;
+    bottom: 30rem;
+}
+
+#circle-body-interests5 {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background: linear-gradient(220deg, rgb(129,219,155, 70%), rgba(255, 255, 255, 10%))
+}
+
+.circle-placement-interests5 {
+    display: flex;
+    position: relative;
+    left: 86.5rem;
+    bottom: 46rem;
+}
+
+.basketball-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 45rem;
+    left: 6rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.basketball-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.coding-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 60rem;
+    left: 26.8rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.coding-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.cat-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 75rem;
+    left: 47.6rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.cat-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.graphicdesign-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 90rem;
+    left: 68.5rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.design-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.gaming-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 119.6rem;
+    left: 26.8rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.gaming-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.music-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 89.6rem;
+    left: 6rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.music-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.photography-image {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    bottom: 104.6rem;
+    left: 47.6rem;
+    width: 20.3rem;
+    height: 15rem;
+    border-radius: 1rem;
+}
+
+.photography-image-edit {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 11/8;
+    object-fit: cover;
+}
+
+.image-list {
+    display: flex;
+    position: relative;
+    width: 5rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font: helvetica;
+    font-size: 1.2rem;
+    font-weight: 550;
+
+    bottom: 135.3rem;
+    left: 65rem;
+    
 }
